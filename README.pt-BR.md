@@ -2,9 +2,18 @@
 
 [Read in English](README.md)
 
-![Backend, IA aplicada e ferramentas de segurança](assets/banner.png)
+Sou estudante de Engenharia de Software na UniSATC, com interesse em desenvolvimento backend, IA aplicada e ferramentas de segurança.
 
-Sou estudante de Engenharia de Software na UniSATC. Trabalho com **Java**, **Spring Boot** e **Python** e estou explorando formas de desenvolver ferramentas de busca, processamento em segundo plano e análise de arquivos.
+## Tecnologias
+
+**Linguagens**<br>
+![Java](assets/stack/java.svg) ![Python](assets/stack/python.svg) ![TypeScript](assets/stack/typescript.svg)
+
+**Frameworks**<br>
+![Spring Boot](assets/stack/spring-boot.svg) ![Hibernate](assets/stack/hibernate.svg) ![Next.js](assets/stack/nextjs.svg)
+
+**Banco de dados e ferramentas**<br>
+![PostgreSQL](assets/stack/postgresql.svg) ![Docker](assets/stack/docker.svg) ![Maven](assets/stack/maven.svg)
 
 ## Projetos
 

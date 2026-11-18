@@ -2,9 +2,18 @@
 
 [Leia em português](README.pt-BR.md)
 
-![Backend, applied AI and security tooling](assets/banner.png)
+I'm a Software Engineering student at UniSATC, interested in backend development, applied AI and security tooling.
 
-I'm a Software Engineering student at UniSATC. I work with **Java**, **Spring Boot** and **Python**, and I'm exploring practical ways to build tools for search, background processing and file analysis.
+## Tech stack
+
+**Languages**<br>
+![Java](assets/stack/java.svg) ![Python](assets/stack/python.svg) ![TypeScript](assets/stack/typescript.svg)
+
+**Frameworks**<br>
+![Spring Boot](assets/stack/spring-boot.svg) ![Hibernate](assets/stack/hibernate.svg) ![Next.js](assets/stack/nextjs.svg)
+
+**Database and tools**<br>
+![PostgreSQL](assets/stack/postgresql.svg) ![Docker](assets/stack/docker.svg) ![Maven](assets/stack/maven.svg)
 
 ## Projects
 
